@@ -1,6 +1,6 @@
 
 # Root location of the AVR files relative to this makefile
-DEPTH=../..
+DEPTH=.
 
 # Relevant files (everything else should not be committed)
 GAME_HEADERS = game.h input.h utility.h graphics.h gametasks.h
