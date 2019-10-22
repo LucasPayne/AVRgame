@@ -1,6 +1,4 @@
-/* ENCE260 group 108
- * Drogo Shi, Lucas Payne
- * Header file for general utility functions and definitions.
+/* Header file for general utility functions and definitions.
  */
 #ifndef UTILITY_HEADER
 #define UTILITY_HEADER

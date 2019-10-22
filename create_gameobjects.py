@@ -1,6 +1,3 @@
-# ENCE260 embedded systems project
-# Group 108
-# Drogo Shi, Lucas Payne
 #
 # Create the an gameobjects definition file from the objects/directory structure.
 # 

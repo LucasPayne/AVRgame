@@ -1,6 +1,4 @@
-/* ENCE260 group 108
- * Drogo Shi, Lucas Payne
- * Utility function definitions, and shared global variables.
+/* Utility function definitions, and shared global variables.
  */
 #include "utility.h"
 

@@ -1,5 +1,4 @@
-/* ENCE260 group 108
- * Drogo Shi, Lucas Payne
+/*
  * Definitions for the input module.
  */
 #include "system.h"

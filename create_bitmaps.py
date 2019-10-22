@@ -1,6 +1,3 @@
-# ENCE260 embedded systems project
-# Group 108
-# Drogo Shi, Lucas Payne
 #
 # Create the hardcoded bitmap structure definitions.
 # Documentation for this system is in README.

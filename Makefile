@@ -1,8 +1,3 @@
-# ENCE260 embedded systems project
-# Group 108
-# Drogo Shi, Lucas Payne
-#
-# Makefile. Based partly off of Michael Hayes' given makefile.
 
 # Root location of the AVR files relative to this makefile
 DEPTH=../..

@@ -1,7 +1,4 @@
-/* ENCE260 embedded systems project
- * Group 108
- * Drogo Shi, Lucas Payne
- * 
+/* 
  * Header file for the graphics module.
  */
 

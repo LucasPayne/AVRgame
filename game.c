@@ -1,6 +1,4 @@
-/* ENCE260 embedded systems project
- * Group 108
- * Drogo Shi, Lucas Payne
+/*
  */
 
 /* AVR system Hayes' header files */

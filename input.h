@@ -1,5 +1,4 @@
-/* ENCE260 group 108
- * Drogo Shi, Lucas Payne
+/*
  * Header file for the input module.
  */
 #ifndef INPUT_HEADER
